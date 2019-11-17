@@ -21,7 +21,7 @@ The run_analysis.R file performs the following transformations on the original U
 
 ## tidy_dataset.csv variable description
 
-The final dataset contains 69 variables with 180 observations. Each observation represents the average measurement for a subject and activity pair.  
+The final dataset contains 68 variables with 180 observations. Each observation represents the average measurement for a subject and activity pair.  
 
 The following columns are provided:
 
