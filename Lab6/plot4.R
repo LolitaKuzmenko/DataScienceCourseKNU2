@@ -1,3 +1,4 @@
+```R
 #Plot 4
 ##Reading data
 data<-read.table("household_power_consumption.txt", sep = ";", header = T, na.strings = "?")
@@ -32,3 +33,4 @@ legend("topright", lty = c(1, 1, 1), col = c("black", "red", "blue"), legend = c
 plot(my_dates$DateTime, my_dates$Global_reactive_power, type = "l", xlab = "datetime",  ylab = "Global_reactive_power")
 
 dev.off()
+```
